@@ -10,6 +10,4 @@ while vyruchka > izdergka:
     break
 if vyruchka < izdergka:
     print("Фирма в убытке")
-    pers = int(input("количество сотрудников:"))
-    prib = i / pers
-    print("Прибыль фирмы:", f'{prib:.2f}')
+  
